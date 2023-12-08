@@ -7,7 +7,7 @@ A boolean is a data type that represent two possibilities:
 """
 iAmTrue = True
 iAmFalse = False
-
+# True False
 print(iAmTrue)
 print(iAmFalse)
 
